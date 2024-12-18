@@ -35,9 +35,6 @@ Here are some of the tools and technologies I work with:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-### **Additional Tools**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
