@@ -5,7 +5,7 @@
 <p align="left"> 
 I am a skilled full-stack engineer with a strong background in Java backend development. Over the past 4+ years, I have built and delivered robust, efficient, and reliable software solutions. 
 
-I am passionate about continuous learning, as showcased by certifications on my [LinkedIn profile](https://www.linkedin.com/in/emanuel-conte-cardoso-20b75614b/). I thrive on solving complex problems, collaborating with teams, and staying up-to-date with the latest technologies to drive innovation.
+I am passionate about continuous learning, as showcased by certifications on my [LinkedIn profile](https://www.linkedin.com/in/emanuel-conte-cardoso/). I thrive on solving complex problems, collaborating with teams, and staying up-to-date with the latest technologies to drive innovation.
 </p>
 
 ---
